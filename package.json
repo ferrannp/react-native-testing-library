@@ -9,7 +9,7 @@
   "license": "MIT",
   "private": false,
   "devDependencies": {
-    "@babel/cli": "^7.1.2",
+    "@babel/cli": "^7.2.3",
     "@babel/core": "^7.1.2",
     "@babel/runtime": "^7.1.2",
     "@callstack/eslint-config": "^4.0.1",
